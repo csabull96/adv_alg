@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmVisualization", "AlgorithmVisualization\AlgorithmVisualization.csproj", "{93D3021A-7E27-4198-A207-48482A4F178B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Algorithms", "Algorithms\Algorithms.csproj", "{3ABB5360-530A-409E-BFA0-14C972681C6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93D3021A-7E27-4198-A207-48482A4F178B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93D3021A-7E27-4198-A207-48482A4F178B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93D3021A-7E27-4198-A207-48482A4F178B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93D3021A-7E27-4198-A207-48482A4F178B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ABB5360-530A-409E-BFA0-14C972681C6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABB5360-530A-409E-BFA0-14C972681C6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABB5360-530A-409E-BFA0-14C972681C6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABB5360-530A-409E-BFA0-14C972681C6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {659D3A6F-A5E6-4F25-93B0-B87DC9EF10C9}
+	EndGlobalSection
+EndGlobal
